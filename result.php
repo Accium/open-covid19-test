@@ -150,22 +150,19 @@
   <div style="height: 1em;">&nbsp;</div>
   <ul>
     <li>
-      Recomendaciones sanitarias y de salud pública del Ministerio de Sanidad, <a href="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm" target="_blank" title="Se abre en una ventana nueva.">aquí</a>
+      Recomendaciones sanitarias y de salud pública del <a href="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm" target="_blank" title="Se abre en una ventana nueva.">Ministerio de Sanidad</a>
     </li>
     <li>
-     Web de la Comunidad de Madrid con información sobre el COVID-19, 
-     <a href="https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus" target="_blank" title="Se abre en una ventana nueva.">aquí</a>
+     Web de la Comunidad de Madrid con <a href="https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus" target="_blank" title="Se abre en una ventana nueva.">información sobre el COVID-19</a>
    </li>
    <li>
-    Consejos para evitar la transmisión conviviendo con una persona con síntomas, <a href="https://www.comunidad.madrid/servicios/salud/covid-19-prevencion-consejos-ciudadania#videos" target="_blank" title="Se abre en una ventana nueva.">aquí</a>.
+    <a href="https://www.comunidad.madrid/servicios/salud/covid-19-prevencion-consejos-ciudadania#videos" target="_blank" title="Se abre en una ventana nueva.">Consejos para evitar la transmisión</a> conviviendo con una persona con síntomas
    </li>
    <li>
-     Web de la Organización Mundial de la Salud para el Coronavirus,
-     <a href="https://www.who.int/health-topics/coronavirus" target="_blank" title="Se abre en una ventana nueva.">aquí</a>
+     <a href="https://www.who.int/health-topics/coronavirus" target="_blank" title="Se abre en una ventana nueva.">Web de la Organización Mundial de la Salud para el Coronavirus</a>
    </li>
    <li>
-    Listado de profesionales de la salud que ofrecen ayuda voluntaria,
-    <a href="https://acciumred.com/covid-consultas-medicas/" target="_blank" title="Se abre en una ventana nueva.">aquí</a>
+    <a href="https://acciumred.com/covid-consultas-medicas/" target="_blank" title="Se abre en una ventana nueva.">Listado de profesionales de la salud que ofrecen ayuda voluntaria</a>
   </li>
 </ul>
 <div class="right">

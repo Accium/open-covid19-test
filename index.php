@@ -38,7 +38,10 @@
         ▸ Si quieres conocer el algoritmo de CoronaMadrid o este, cómo lo ha descubierto su desarrolladora y ver su código fuente, puedes hacerlo en esta web <a href="https://github.com/celiavelmar/open-covid19-test" target="_blank" title="Se abre en una ventana nueva.">Repositorio GitHub</a>.
       </p>
       <p class="home-p small">
-        ▸ Esta versión del Open COVID-19 sigue las Pautas de Accesibilidad WCAG 2.0. Si tienes alguna duda o sugerencia que nos ayude a mejorar su accesibilidad, por favor, háznosla llegar a través de <a href="" target="_blank" title="Se abre en una ventana nueva.">@AcciumRed_media</a>.
+        ▸ Esta versión del Open COVID-19 sigue las Pautas de Accesibilidad WCAG 2.0. Si tienes alguna duda o sugerencia que nos ayude a mejorar su accesibilidad, por favor, háznosla llegar a través de <a href="twitter.com/acciumred_media" target="_blank" title="Se abre en una ventana nueva.">@AcciumRed_media</a>.
+      </p>
+      <p class="home-p small">
+        ▸ Puedes descargar el código fuente de esta <a href="https://github.com/Accium/open-covid19-test" target="_blank" title="Se abre en una ventana nueva.">aplicación</a>.
       </p>
       <div style="height: 2em;">&nbsp;</div>
       <div class="panel home-info-panel">
